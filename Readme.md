@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/LinqServerModeWithUpdates/Default.aspx) (VB: [Default.aspx](./VB/LinqServerModeWithUpdates/Default.aspx))
+* [Default.aspx.cs](./CS/LinqServerModeWithUpdates/Default.aspx.cs) (VB: [Default.aspx](./VB/LinqServerModeWithUpdates/Default.aspx))
+<!-- default file list end -->
 # An editable ASPxGridView in LINQ Server Mode
 
 
